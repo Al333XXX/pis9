@@ -28,7 +28,7 @@ void inputClub(Participant& club) {
     cin >> club.budget;
     cout << "Текущее количество очков: ";
     cin >> club.points;
-    cout << "Текущее место в чемпионате: ";
+    cout << "Будующее место в чемпионате: ";
     cin >> club.place;
 }
 
